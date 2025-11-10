@@ -29,7 +29,7 @@ Tenho experiência prática em projetos usando **PHP, Java, HTML, CSS, SQL e C++
 - Projeto desenvolvido como prática para DSM na FATEC Araras  
 
 ### 2. Projetos pessoais e acadêmicos
-- Sistemas simples de vendas e estoque  
+- Sistemas simples de farmácia  
 - Estruturação de formulários e páginas com **HTML, CSS e PHP**  
 - Manipulação de banco de dados MySQL  
 
@@ -40,7 +40,7 @@ Tenho experiência prática em projetos usando **PHP, Java, HTML, CSS, SQL e C++
 ## 🌱 Atualmente estudando
 - Criação de **interfaces web responsivas e bem estruturadas**  
 - Aprimoramento em **JavaScript** e boas práticas de desenvolvimento front-end  
-- Aprimoramento em **Java e C++**  
+- Aprimoramento em **frameworks javascript ANGULAR | NODE.JS**  
 - **Git e GitHub** para versionamento e trabalho colaborativo  
 
 ---
