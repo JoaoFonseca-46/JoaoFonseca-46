@@ -39,9 +39,11 @@ Tenho experiência prática em projetos usando **PHP, Java, HTML, CSS, SQL e C++
 
 ## 🌱 Atualmente estudando
 - Criação de **interfaces web responsivas e bem estruturadas**  
-- Aprimoramento em **JavaScript** e boas práticas de desenvolvimento front-end  
-- Aprimoramento em **frameworks javascript ANGULAR | NODE.JS**  
+- Desenvolvimento de **soluções internas de TI**  
+- Foco em **Arquitetura, Organização e Boas Práticas**  
 - **Git e GitHub** para versionamento e trabalho colaborativo  
+- **Redes**
+- **Infraestrutura**
 
 ---
 
