@@ -2,7 +2,7 @@
 
 Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM) na FATEC Araras**, com perfil analítico e detalhista, interessado em desenvolver **soluções bem estruturadas em front-end e back-end**.  
 
-Tenho experiência prática em projetos usando **PHP, Java, HTML, CSS, SQL e C++**, e acredito na importância de aprender **na prática**.
+Tenho experiência acadêmica em projetos utilizando PHP, Java, HTML, CSS, SQL e C++, e acredito na importância de aprender na prática, desenvolvendo soluções e projetos próprios.
 
 ---
 
